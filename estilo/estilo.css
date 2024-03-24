@@ -1,0 +1,46 @@
+.container { 
+    font-size: 30px; 
+   background-color:rgb(170, 173, 173);  
+   width: 600px; 
+   height: 4000px; 
+   position:absolute;   
+   padding-inline: 50px; 
+  
+}
+
+.img{
+    position:relative; 
+    bottom: -20px; 
+}
+
+.objetivo{
+    color:black
+} 
+
+.competencias{
+    color:black
+}
+
+
+
+.Formaçao{ 
+    position:absolute;
+    left:1000px; 
+    bottom: 580px;
+    font-size: 30px;
+    color:black 
+    
+} 
+
+
+.Experiencias{
+    position:absolute;
+    left:1000px; 
+    bottom: -150px;
+    font-size: 30px;
+    color:black 
+} 
+
+a:link{
+    text-decoration: none;
+}
